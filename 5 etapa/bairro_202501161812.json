@@ -1,0 +1,1347 @@
+{
+"select * from bairro where cd_localidade=7043": [
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12147,
+		"nm_bairro" : "Alto da Boa Vista",
+		"nm_bairro_abrev" : "At Boa Vista",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12151,
+		"nm_bairro" : "Araújo de Cosmos",
+		"nm_bairro_abrev" : "Araújo Cosmos",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 59881,
+		"nm_bairro" : "Área Rural de Rio de Janeiro",
+		"nm_bairro_abrev" : "A Rur Rio Janeiro",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12152,
+		"nm_bairro" : "Baia de Guanabara",
+		"nm_bairro_abrev" : "Baia Guanabara",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 97339,
+		"nm_bairro" : "Barra Olímpica",
+		"nm_bairro_abrev" : "Barra Olímpica",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12169,
+		"nm_bairro" : "Campo dos Afonsos",
+		"nm_bairro_abrev" : "Cpo Afonsos",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12173,
+		"nm_bairro" : "Catumbi",
+		"nm_bairro_abrev" : "Catumbi",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12179,
+		"nm_bairro" : "Cocotá",
+		"nm_bairro_abrev" : "Cocotá",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12190,
+		"nm_bairro" : "Dendê",
+		"nm_bairro_abrev" : "Dendê",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12192,
+		"nm_bairro" : "Dumas",
+		"nm_bairro_abrev" : "Dumas",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12209,
+		"nm_bairro" : "Guarabu",
+		"nm_bairro_abrev" : "Guarabu",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12218,
+		"nm_bairro" : "Itacolomi",
+		"nm_bairro_abrev" : "Itacolomi",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 43689,
+		"nm_bairro" : "Maré",
+		"nm_bairro_abrev" : "Maré",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12248,
+		"nm_bairro" : "Nossa Senhora das Graças",
+		"nm_bairro_abrev" : "N Sra Graças",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12250,
+		"nm_bairro" : "Olaria",
+		"nm_bairro_abrev" : "Olaria",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12252,
+		"nm_bairro" : "Paciência",
+		"nm_bairro_abrev" : "Paciência",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12264,
+		"nm_bairro" : "Pitangueiras",
+		"nm_bairro_abrev" : "Pitangueiras",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12265,
+		"nm_bairro" : "Portuguesa",
+		"nm_bairro_abrev" : "Portuguesa",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12267,
+		"nm_bairro" : "Praça Seca",
+		"nm_bairro_abrev" : "Pç Seca",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12268,
+		"nm_bairro" : "Praia da Bandeira",
+		"nm_bairro_abrev" : "Pr Bandeira",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12275,
+		"nm_bairro" : "Ribeira",
+		"nm_bairro_abrev" : "Ribeira",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12281,
+		"nm_bairro" : "Rocinha",
+		"nm_bairro_abrev" : "Rocinha",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12303,
+		"nm_bairro" : "Tubiacanga",
+		"nm_bairro_abrev" : "Tubiacanga",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12321,
+		"nm_bairro" : "Zumbi",
+		"nm_bairro_abrev" : "Zumbi",
+		"zona" : null
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12144,
+		"nm_bairro" : "Abolição",
+		"nm_bairro_abrev" : "Abolição",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12145,
+		"nm_bairro" : "Acari",
+		"nm_bairro_abrev" : "Acari",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12146,
+		"nm_bairro" : "Água Santa",
+		"nm_bairro_abrev" : "Água Santa",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12148,
+		"nm_bairro" : "Anchieta",
+		"nm_bairro_abrev" : "Anchieta",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12149,
+		"nm_bairro" : "Andaraí",
+		"nm_bairro_abrev" : "Andaraí",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12153,
+		"nm_bairro" : "Bancários",
+		"nm_bairro_abrev" : "Bancários",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12157,
+		"nm_bairro" : "Barros Filho",
+		"nm_bairro_abrev" : "Barros Filho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12159,
+		"nm_bairro" : "Bento Ribeiro",
+		"nm_bairro_abrev" : "Bento Ribeiro",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12160,
+		"nm_bairro" : "Bonsucesso",
+		"nm_bairro_abrev" : "Bonsucesso",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12162,
+		"nm_bairro" : "Brás de Pina",
+		"nm_bairro_abrev" : "Brás Pina",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12163,
+		"nm_bairro" : "Cachambi",
+		"nm_bairro_abrev" : "Cachambi",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12165,
+		"nm_bairro" : "Cacuia",
+		"nm_bairro_abrev" : "Cacuia",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12168,
+		"nm_bairro" : "Campinho",
+		"nm_bairro_abrev" : "Campinho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12171,
+		"nm_bairro" : "Cascadura",
+		"nm_bairro_abrev" : "Cascadura",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12174,
+		"nm_bairro" : "Cavalcanti",
+		"nm_bairro_abrev" : "Cavalcanti",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12178,
+		"nm_bairro" : "Cidade Universitária",
+		"nm_bairro_abrev" : "Cid Universitária",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12180,
+		"nm_bairro" : "Coelho Neto",
+		"nm_bairro_abrev" : "Coelho Neto",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12181,
+		"nm_bairro" : "Colégio",
+		"nm_bairro_abrev" : "Colégio",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12183,
+		"nm_bairro" : "Cordovil",
+		"nm_bairro_abrev" : "Cordovil",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12186,
+		"nm_bairro" : "Costa Barros",
+		"nm_bairro_abrev" : "Costa Barros",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12189,
+		"nm_bairro" : "Del Castilho",
+		"nm_bairro_abrev" : "Del Castilho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12193,
+		"nm_bairro" : "Encantado",
+		"nm_bairro_abrev" : "Encantado",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12194,
+		"nm_bairro" : "Engenheiro Leal",
+		"nm_bairro_abrev" : "Eng Leal",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12195,
+		"nm_bairro" : "Engenho da Rainha",
+		"nm_bairro_abrev" : "Eng Rainha",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12196,
+		"nm_bairro" : "Engenho de Dentro",
+		"nm_bairro_abrev" : "Eng Dentro",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12197,
+		"nm_bairro" : "Engenho Novo",
+		"nm_bairro_abrev" : "Eng Novo",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12200,
+		"nm_bairro" : "Freguesia (Ilha do Governador)",
+		"nm_bairro_abrev" : "Freguesia (Ia Governador)",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12201,
+		"nm_bairro" : "Galeão",
+		"nm_bairro_abrev" : "Galeão",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12206,
+		"nm_bairro" : "Grajaú",
+		"nm_bairro_abrev" : "Grajaú",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12208,
+		"nm_bairro" : "Guadalupe",
+		"nm_bairro_abrev" : "Guadalupe",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12211,
+		"nm_bairro" : "Higienópolis",
+		"nm_bairro_abrev" : "Higienópolis",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12212,
+		"nm_bairro" : "Honório Gurgel",
+		"nm_bairro_abrev" : "Honório Gurgel",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12214,
+		"nm_bairro" : "Inhaúma",
+		"nm_bairro_abrev" : "Inhaúma",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12217,
+		"nm_bairro" : "Irajá",
+		"nm_bairro_abrev" : "Irajá",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12221,
+		"nm_bairro" : "Jacaré",
+		"nm_bairro_abrev" : "Jacaré",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 60086,
+		"nm_bairro" : "Jacarezinho",
+		"nm_bairro_abrev" : "Jacarezinho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12223,
+		"nm_bairro" : "Jardim América",
+		"nm_bairro_abrev" : "Jd América",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12225,
+		"nm_bairro" : "Jardim Carioca",
+		"nm_bairro_abrev" : "Jd Carioca",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12226,
+		"nm_bairro" : "Jardim Guanabara",
+		"nm_bairro_abrev" : "Jd Guanabara",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12236,
+		"nm_bairro" : "Lins de Vasconcelos",
+		"nm_bairro_abrev" : "Lins Vasconcelos",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12239,
+		"nm_bairro" : "Madureira",
+		"nm_bairro_abrev" : "Madureira",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12242,
+		"nm_bairro" : "Manguinhos",
+		"nm_bairro_abrev" : "Manguinhos",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12243,
+		"nm_bairro" : "Maracanã",
+		"nm_bairro_abrev" : "Maracanã",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12244,
+		"nm_bairro" : "Marechal Hermes",
+		"nm_bairro_abrev" : "Mal Hermes",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12245,
+		"nm_bairro" : "Maria da Graça",
+		"nm_bairro_abrev" : "Maria Graça",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12246,
+		"nm_bairro" : "Méier",
+		"nm_bairro_abrev" : "Méier",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12247,
+		"nm_bairro" : "Moneró",
+		"nm_bairro_abrev" : "Moneró",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12251,
+		"nm_bairro" : "Oswaldo Cruz",
+		"nm_bairro_abrev" : "Oswaldo Cruz",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12255,
+		"nm_bairro" : "Parada de Lucas",
+		"nm_bairro_abrev" : "Pda Lucas",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12256,
+		"nm_bairro" : "Parque Anchieta",
+		"nm_bairro_abrev" : "Prq Anchieta",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 58761,
+		"nm_bairro" : "Parque Colúmbia",
+		"nm_bairro_abrev" : "Prq Colúmbia",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12257,
+		"nm_bairro" : "Pavuna",
+		"nm_bairro_abrev" : "Pavuna",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12260,
+		"nm_bairro" : "Penha",
+		"nm_bairro_abrev" : "Penha",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12261,
+		"nm_bairro" : "Penha Circular",
+		"nm_bairro_abrev" : "Penha Circular",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12262,
+		"nm_bairro" : "Piedade",
+		"nm_bairro_abrev" : "Piedade",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12263,
+		"nm_bairro" : "Pilares",
+		"nm_bairro_abrev" : "Pilares",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12270,
+		"nm_bairro" : "Quintino Bocaiúva",
+		"nm_bairro_abrev" : "Quintino Bocaiúva",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12271,
+		"nm_bairro" : "Ramos",
+		"nm_bairro_abrev" : "Ramos",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12274,
+		"nm_bairro" : "Riachuelo",
+		"nm_bairro_abrev" : "Riachuelo",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12276,
+		"nm_bairro" : "Ricardo de Albuquerque",
+		"nm_bairro_abrev" : "Ricardo Albuquerque",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12279,
+		"nm_bairro" : "Rocha",
+		"nm_bairro_abrev" : "Rocha",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12280,
+		"nm_bairro" : "Rocha Miranda",
+		"nm_bairro_abrev" : "Rocha Miranda",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12282,
+		"nm_bairro" : "Sampaio",
+		"nm_bairro_abrev" : "Sampaio",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12288,
+		"nm_bairro" : "São Cristóvão",
+		"nm_bairro_abrev" : "S Cristóvão",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12289,
+		"nm_bairro" : "São Francisco Xavier",
+		"nm_bairro_abrev" : "S Francisco Xavier",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12297,
+		"nm_bairro" : "Tauá",
+		"nm_bairro_abrev" : "Tauá",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12298,
+		"nm_bairro" : "Tijuca",
+		"nm_bairro_abrev" : "Tijuca",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12301,
+		"nm_bairro" : "Todos os Santos",
+		"nm_bairro_abrev" : "Todos os Santos",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12302,
+		"nm_bairro" : "Tomás Coelho",
+		"nm_bairro_abrev" : "Tomás Coelho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12304,
+		"nm_bairro" : "Turiaçu",
+		"nm_bairro_abrev" : "Turiaçu",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12308,
+		"nm_bairro" : "Vaz Lobo",
+		"nm_bairro_abrev" : "Vaz Lobo",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12309,
+		"nm_bairro" : "Vicente de Carvalho",
+		"nm_bairro_abrev" : "Vicente Carvalho",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12311,
+		"nm_bairro" : "Vigário Geral",
+		"nm_bairro_abrev" : "Vig Geral",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12312,
+		"nm_bairro" : "Vila da Penha",
+		"nm_bairro_abrev" : "Vl Penha",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12314,
+		"nm_bairro" : "Vila Isabel",
+		"nm_bairro_abrev" : "Vl Isabel",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12316,
+		"nm_bairro" : "Vila Kosmos",
+		"nm_bairro_abrev" : "Vl Kosmos",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12320,
+		"nm_bairro" : "Vista Alegre",
+		"nm_bairro_abrev" : "Vista Alegre",
+		"zona" : "Zona Norte"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12161,
+		"nm_bairro" : "Botafogo",
+		"nm_bairro_abrev" : "Botafogo",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12172,
+		"nm_bairro" : "Catete",
+		"nm_bairro_abrev" : "Catete",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12182,
+		"nm_bairro" : "Copacabana",
+		"nm_bairro_abrev" : "Copacabana",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12184,
+		"nm_bairro" : "Cosme Velho",
+		"nm_bairro_abrev" : "Cosme Velho",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12199,
+		"nm_bairro" : "Flamengo",
+		"nm_bairro_abrev" : "Flamengo",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12204,
+		"nm_bairro" : "Gávea",
+		"nm_bairro_abrev" : "Gávea",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12213,
+		"nm_bairro" : "Humaitá",
+		"nm_bairro_abrev" : "Humaitá",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12216,
+		"nm_bairro" : "Ipanema",
+		"nm_bairro_abrev" : "Ipanema",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12224,
+		"nm_bairro" : "Jardim Botânico",
+		"nm_bairro_abrev" : "Jd Botânico",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12232,
+		"nm_bairro" : "Lagoa",
+		"nm_bairro_abrev" : "Lagoa",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12233,
+		"nm_bairro" : "Laranjeiras",
+		"nm_bairro_abrev" : "Laranjeiras",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12234,
+		"nm_bairro" : "Leblon",
+		"nm_bairro_abrev" : "Leblon",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12235,
+		"nm_bairro" : "Leme",
+		"nm_bairro_abrev" : "Leme",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12277,
+		"nm_bairro" : "Rio Comprido",
+		"nm_bairro_abrev" : "Rio Comprido",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12287,
+		"nm_bairro" : "São Conrado",
+		"nm_bairro_abrev" : "S Conrado",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12305,
+		"nm_bairro" : "Urca",
+		"nm_bairro_abrev" : "Urca",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12310,
+		"nm_bairro" : "Vidigal",
+		"nm_bairro_abrev" : "Vidigal",
+		"zona" : "Zona Sul"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12150,
+		"nm_bairro" : "Anil",
+		"nm_bairro_abrev" : "Anil",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12154,
+		"nm_bairro" : "Bangu",
+		"nm_bairro_abrev" : "Bangu",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12155,
+		"nm_bairro" : "Barra da Tijuca",
+		"nm_bairro_abrev" : "Barra Tijuca",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12156,
+		"nm_bairro" : "Barra de Guaratiba",
+		"nm_bairro_abrev" : "Barra Guaratiba",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12167,
+		"nm_bairro" : "Camorim",
+		"nm_bairro_abrev" : "Camorim",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12170,
+		"nm_bairro" : "Campo Grande",
+		"nm_bairro_abrev" : "Cpo Grande",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12176,
+		"nm_bairro" : "Cidade de Deus",
+		"nm_bairro_abrev" : "Cid Deus",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12185,
+		"nm_bairro" : "Cosmos",
+		"nm_bairro_abrev" : "Cosmos",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12187,
+		"nm_bairro" : "Curicica",
+		"nm_bairro_abrev" : "Curicica",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 33624,
+		"nm_bairro" : "Freguesia (Jacarepaguá)",
+		"nm_bairro_abrev" : "Freguesia (Jacarepaguá)",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12203,
+		"nm_bairro" : "Gardênia Azul",
+		"nm_bairro_abrev" : "Gardênia Azul",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12207,
+		"nm_bairro" : "Grumari",
+		"nm_bairro_abrev" : "Grumari",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12210,
+		"nm_bairro" : "Guaratiba",
+		"nm_bairro_abrev" : "Guaratiba",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12215,
+		"nm_bairro" : "Inhoaíba",
+		"nm_bairro_abrev" : "Inhoaíba",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12219,
+		"nm_bairro" : "Itanhangá",
+		"nm_bairro_abrev" : "Itanhangá",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12222,
+		"nm_bairro" : "Jacarepaguá",
+		"nm_bairro_abrev" : "Jacarepaguá",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12230,
+		"nm_bairro" : "Jardim Sulacap",
+		"nm_bairro_abrev" : "Jd Sulacap",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12231,
+		"nm_bairro" : "Joá",
+		"nm_bairro_abrev" : "Joá",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12240,
+		"nm_bairro" : "Magalhães Bastos",
+		"nm_bairro_abrev" : "Magalhães Bastos",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12253,
+		"nm_bairro" : "Padre Miguel",
+		"nm_bairro_abrev" : "Pe Miguel",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12258,
+		"nm_bairro" : "Pechincha",
+		"nm_bairro_abrev" : "Pechincha",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12259,
+		"nm_bairro" : "Pedra de Guaratiba",
+		"nm_bairro_abrev" : "Pedra Guaratiba",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12272,
+		"nm_bairro" : "Realengo",
+		"nm_bairro_abrev" : "Realengo",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12273,
+		"nm_bairro" : "Recreio dos Bandeirantes",
+		"nm_bairro_abrev" : "Rcr Bandeirantes",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12283,
+		"nm_bairro" : "Santa Cruz",
+		"nm_bairro_abrev" : "Sta Cruz",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12285,
+		"nm_bairro" : "Santíssimo",
+		"nm_bairro_abrev" : "Santíssimo",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12292,
+		"nm_bairro" : "Senador Camará",
+		"nm_bairro_abrev" : "Sen Camará",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12293,
+		"nm_bairro" : "Senador Vasconcelos",
+		"nm_bairro_abrev" : "Sen Vasconcelos",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12294,
+		"nm_bairro" : "Sepetiba",
+		"nm_bairro_abrev" : "Sepetiba",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12295,
+		"nm_bairro" : "Tanque",
+		"nm_bairro_abrev" : "Tanque",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12296,
+		"nm_bairro" : "Taquara",
+		"nm_bairro_abrev" : "Taquara",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12306,
+		"nm_bairro" : "Vargem Grande",
+		"nm_bairro_abrev" : "Vargem Grande",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12307,
+		"nm_bairro" : "Vargem Pequena",
+		"nm_bairro_abrev" : "Vargem Pequena",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12317,
+		"nm_bairro" : "Vila Militar",
+		"nm_bairro_abrev" : "Vl Militar",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12318,
+		"nm_bairro" : "Vila Valqueire",
+		"nm_bairro_abrev" : "Vl Valqueire",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12191,
+		"nm_bairro" : "Deodoro",
+		"nm_bairro_abrev" : "Deodoro",
+		"zona" : "Zona Oeste"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12175,
+		"nm_bairro" : "Centro",
+		"nm_bairro_abrev" : "Centro",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12177,
+		"nm_bairro" : "Cidade Nova",
+		"nm_bairro_abrev" : "Cid Nova",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12198,
+		"nm_bairro" : "Estácio",
+		"nm_bairro_abrev" : "Estácio",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12202,
+		"nm_bairro" : "Gamboa",
+		"nm_bairro_abrev" : "Gamboa",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12241,
+		"nm_bairro" : "Mangueira",
+		"nm_bairro_abrev" : "Mangueira",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12254,
+		"nm_bairro" : "Paquetá",
+		"nm_bairro_abrev" : "Paquetá",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12266,
+		"nm_bairro" : "Praça da Bandeira",
+		"nm_bairro_abrev" : "Pç Bandeira",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12286,
+		"nm_bairro" : "Santo Cristo",
+		"nm_bairro_abrev" : "Sto Cristo",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12291,
+		"nm_bairro" : "Saúde",
+		"nm_bairro_abrev" : "Saúde",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 55524,
+		"nm_bairro" : "Vasco da Gama",
+		"nm_bairro_abrev" : "Vasco Gama",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12158,
+		"nm_bairro" : "Benfica",
+		"nm_bairro_abrev" : "Benfica",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12166,
+		"nm_bairro" : "Caju",
+		"nm_bairro_abrev" : "Caju",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12205,
+		"nm_bairro" : "Glória",
+		"nm_bairro_abrev" : "Glória",
+		"zona" : "Zona Central"
+	},
+	{
+		"sg_uf" : "RJ",
+		"cd_localidade" : 7043,
+		"cd_bairro" : 12284,
+		"nm_bairro" : "Santa Teresa",
+		"nm_bairro_abrev" : "Sta Teresa",
+		"zona" : "Zona Central"
+	}
+]}
