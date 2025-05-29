@@ -6,8 +6,8 @@ DECLARE
     v_cd_titulo_patente INTEGER; 
     v_nm_patente VARCHAR(72); 
     v_nm_patente_abrev VARCHAR(15); 
-BEGI
-    v_arquivo := pg_read_binary_file('/home/Davi/Documentos/Conectar/base_correis_edne/eDNE_Master_24122/Fixo/DNE_GU_TITULOS_PATENTES.TXT');
+BEGIN
+    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_TITULOS_PATENTES.TXT');
 
     FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
         BEGIN

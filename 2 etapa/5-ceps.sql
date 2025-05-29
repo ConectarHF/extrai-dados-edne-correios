@@ -40,7 +40,7 @@ BEGIN
             RAISE NOTICE 'Processando arquivo: %', v_arquivo_nome;
 
             -- Lê o arquivo como BYTEA (binário)
-            v_arquivo := pg_read_binary_file('/home/Davi/Documentos/Conectar/base_correis_edne/eDNE_Master_24122/Fixo/' || v_arquivo_nome);
+            v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/' || v_arquivo_nome);
             RAISE NOTICE 'Arquivo % lido com sucesso. Tamanho: % bytes', v_arquivo_nome, LENGTH(v_arquivo);
 
             -- Converte o conteúdo do arquivo para texto usando a codificação LATIN1

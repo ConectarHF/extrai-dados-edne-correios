@@ -6,9 +6,12 @@ DECLARE
     v_cd_tipo_logradouro INTEGER; 
     v_tp_logradouro VARCHAR(26); 
     v_tp_logradouro_abrev VARCHAR(15); 
-    v_arquivo := pg_read_binary_file('/home/Davi/Documentos/Conectar/base_correis_edne/eDNE_Master_24122/Fixo/DNE_GU_TIPOS_LOGRADOURO.TXT');
+BEGIN -- ✅ Adicionado BEGIN (bloco principal)
+    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_TIPOS_LOGRADOURO.TXT');
 
-    FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
+    FOR v_linha IN 
+        SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) 
+    LOOP
         BEGIN
             IF SUBSTRING(v_linha FROM 1 FOR 1) = 'D' AND LENGTH(v_linha) >= 95 THEN
                 v_cd_tipo_logradouro := RTRIM(LTRIM(SUBSTRING(v_linha FROM 5 FOR 3)))::INTEGER; 
@@ -24,7 +27,7 @@ DECLARE
 
                     INSERT INTO tipo_logradouro (cd_tipo_logradouro, tp_logradouro, tp_logradouro_abrev)
                     VALUES (v_cd_tipo_logradouro, v_tp_logradouro, v_tp_logradouro_abrev)
-                    ON CONFLICT (tp_logradouro) DO NOTHING; s
+                    ON CONFLICT (tp_logradouro) DO NOTHING; -- ✅ Removido o "s" sobrando aqui
                 ELSE
                     RAISE NOTICE 'Linha ignorada: Campos inválidos. Linha: %', v_linha;
                 END IF;
@@ -37,5 +40,5 @@ DECLARE
                 CONTINUE;
         END;
     END LOOP;
-END;
+END; -- ✅ Adicionado END (fechamento do bloco principal)
 $$ LANGUAGE plpgsql;

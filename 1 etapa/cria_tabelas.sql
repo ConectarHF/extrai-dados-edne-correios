@@ -28,6 +28,7 @@ CREATE TABLE bairro (
     PRIMARY KEY (cd_Bairro)
 );
 
+
 DROP TABLE IF EXISTS localidade;
 CREATE TABLE localidade (
     nr_cep CHAR(8),
@@ -44,6 +45,10 @@ CREATE TABLE estado (
     cd_uf INTEGER NOT NULL,
     nm_estado VARCHAR(72) NOT NULL
 );
+ALTER TABLE estado
+    ADD CONSTRAINT unique_sg_uf UNIQUE (sg_uf);
+
+    
 CREATE UNIQUE INDEX estado_pkey
     ON estado (sg_uf)
     WITH (FILLFACTOR = 90);

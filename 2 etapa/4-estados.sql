@@ -4,10 +4,11 @@ DECLARE
     v_linha TEXT; 
     v_arquivo BYTEA; 
     v_sg_pais CHAR(2); 
+    v_sg_uf CHAR(2);
     v_cd_uf INTEGER; 
     v_nm_estado VARCHAR(72); 
 BEGIN
-    v_arquivo := pg_read_binary_file('/home/Davi/Documentos/Conectar/base_correis_edne/eDNE_Master_24122/Fixo/DNE_GU_UNIDADES_FEDERACAO.TXT');
+    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_UNIDADES_FEDERACAO.TXT');
 
     FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
         BEGIN

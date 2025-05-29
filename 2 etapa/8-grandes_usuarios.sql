@@ -15,7 +15,7 @@ DECLARE
     v_nm_abreviatura VARCHAR(36); 
     v_ds_info_adicional VARCHAR(36); 
 BEGIN
-    v_arquivo := pg_read_binary_file('/home/Davi/Documentos/Conectar/base_correis_edne/eDNE_Master_24122/Fixo/DNE_GU_GRANDES_USUARIOS.TXT');
+    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_GRANDES_USUARIOS.TXT');
 
     FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
         BEGIN
