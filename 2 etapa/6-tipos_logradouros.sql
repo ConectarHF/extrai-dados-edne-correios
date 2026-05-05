@@ -7,7 +7,7 @@ DECLARE
     v_tp_logradouro VARCHAR(26); 
     v_tp_logradouro_abrev VARCHAR(15); 
 BEGIN -- ✅ Adicionado BEGIN (bloco principal)
-    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_TIPOS_LOGRADOURO.TXT');
+    v_arquivo := pg_read_binary_file('DNE_GU_TIPOS_LOGRADOURO.TXT');
 
     FOR v_linha IN 
         SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) 

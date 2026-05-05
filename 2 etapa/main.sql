@@ -8,6 +8,10 @@ BEGIN
     PERFORM carregar_paises();
     RAISE NOTICE 'Carregamento de paises concluído.';
 
+    RAISE NOTICE 'Iniciando carregamento de estados...';
+    PERFORM carregar_estados();
+    RAISE NOTICE 'Carregamento de estados concluído.';
+
     RAISE NOTICE 'Iniciando carregamento de localidades...';
     PERFORM carregar_localidades();
     RAISE NOTICE 'Carregamento de localidades concluído.';
@@ -15,10 +19,6 @@ BEGIN
     RAISE NOTICE 'Iniciando carregamento de bairros...';
     PERFORM carregar_bairros();
     RAISE NOTICE 'Carregamento de bairros concluído.';
-
-    RAISE NOTICE 'Iniciando carregamento de estados...';
-    PERFORM carregar_estados();
-    RAISE NOTICE 'Carregamento de estados concluído.';
 
     RAISE NOTICE 'Iniciando carregamento de logradouros...';
     PERFORM carregar_logradouros();

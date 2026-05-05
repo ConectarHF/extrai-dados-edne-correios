@@ -1,7 +1,7 @@
 
 -- Criação das tabelas
 DROP TABLE IF EXISTS cep;
-CREATE TABLE cep.cep (
+CREATE TABLE cep (
 	nr_cep bpchar(8) NOT NULL,
 	sg_uf bpchar(2) NOT NULL,
 	cd_localidade int4 NOT NULL,

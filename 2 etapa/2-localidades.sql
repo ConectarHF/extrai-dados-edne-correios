@@ -9,7 +9,7 @@ DECLARE
     v_nm_localidade VARCHAR(72); 
     v_nm_abreviatura VARCHAR(36); 
 BEGIN
-    v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_LOCALIDADES.TXT');
+    v_arquivo := pg_read_binary_file('DNE_GU_LOCALIDADES.TXT');
 
     FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
         BEGIN

@@ -4,6 +4,7 @@ DECLARE
     v_arquivo_nome TEXT;     -- Nome do arquivo atual
     v_arquivo BYTEA;         -- Conteúdo do arquivo atual
     v_linha TEXT;            -- Linha do arquivo
+    -- Arquivos pesados, necessário processar um por um para evitar sobrecarga de memória
     file_list TEXT[] := ARRAY[
         'DNE_GU_AC_LOGRADOUROS.TXT',
         'DNE_GU_AL_LOGRADOUROS.TXT',
@@ -40,7 +41,7 @@ BEGIN
             RAISE NOTICE 'Processando arquivo: %', v_arquivo_nome;
 
             -- Lê o arquivo como BYTEA (binário)
-            v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/' || v_arquivo_nome);
+            v_arquivo := pg_read_binary_file(v_arquivo_nome);
             RAISE NOTICE 'Arquivo % lido com sucesso. Tamanho: % bytes', v_arquivo_nome, LENGTH(v_arquivo);
 
             -- Converte o conteúdo do arquivo para texto usando a codificação LATIN1

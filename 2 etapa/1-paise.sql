@@ -10,7 +10,7 @@ DECLARE
     v_nm_pais_fra VARCHAR(72); 
 BEGIN
 
-v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE_Master_24122/Fixo/DNE_GU_LOCALIDADES.TXT');
+v_arquivo := pg_read_binary_file('DNE_GU_PAISES.TXT');
 
     FOR v_linha IN SELECT unnest(string_to_array(convert_from(v_arquivo, 'LATIN1'), E'\n')) LOOP
         BEGIN
@@ -18,6 +18,7 @@ v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE
             IF SUBSTRING(v_linha FROM 1 FOR 1) = 'D' AND LENGTH(v_linha) >= 222 THEN
                 v_sg_pais := RTRIM(LTRIM(SUBSTRING(v_linha FROM 2 FOR 2))); 
                 v_sg_pais_2 := RTRIM(LTRIM(SUBSTRING(v_linha FROM 4 FOR 3))); 
+                v_nm_pais := RTRIM(LTRIM(SUBSTRING(v_linha FROM 7 FOR 72)));
                 v_nm_pais_eng := RTRIM(LTRIM(SUBSTRING(v_linha FROM 79 FOR 72))); 
                 v_nm_pais_fra := RTRIM(LTRIM(SUBSTRING(v_linha FROM 151 FOR 72))); 
 
@@ -30,7 +31,7 @@ v_arquivo := pg_read_binary_file('C:/Users/Davi/Documents/Conectar/correios/eDNE
                     RAISE NOTICE 'Linha processada: sg_pais=%, sg_pais_2=%, nm_pais=%, nm_pais_eng=%, nm_pais_fra=%',
                                  v_sg_pais, v_sg_pais_2, v_nm_pais, v_nm_pais_eng, v_nm_pais_fra;
 
-                    INSERT INTO cep.pais (Sg_Pais, Sg_Pais_2, Nm_Pais, Nm_Pais_ENG, Nm_Pais_FRA)
+                    INSERT INTO pais (Sg_Pais, Sg_Pais_2, Nm_Pais, Nm_Pais_ENG, Nm_Pais_FRA)
                     VALUES (v_sg_pais, v_sg_pais_2, v_nm_pais, v_nm_pais_eng, v_nm_pais_fra)
                     ON CONFLICT (Sg_Pais) DO NOTHING; 
                 ELSE
